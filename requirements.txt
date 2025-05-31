@@ -1,0 +1,15 @@
+openai-whisper
+numpy
+pydub
+torch
+torchaudio
+gradio
+ffmpeg
+ffprobe
+imageio-ffmpeg
+soundfile
+langchain-text-splitters
+python-dotenv
+langchain_groq
+langchain_core
+aiofiles
